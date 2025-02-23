@@ -1,6 +1,3 @@
-    - Github Project 사용 방식
-
-
 <div align="center">
   <h1 align="center" style="line-height: 50px;">HIVCD PRINTSHOP <br/>TEAM DEVELOP PROGRESS</h1>
     <h3  align="center">우리가 <span style="color: #75c375">Github Project</span>를 활용하여 프로젝트 관리하는 법</h3>
