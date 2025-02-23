@@ -1,11 +1,11 @@
 <div align="center">
   <h1 align="center" style="line-height: 50px;">HIVCD PRINTSHOP <br/>TEAM DEVELOP PROGRESS</h1>
-    <h3  align="center">우리가 <span style="color: #75c375">Github Project</span>를 활용하여 프로젝트 관리하는 법</h3>
+    <h3  align="center">Git Flow를 통해 소프트웨어 개발을 체계화하는 법</h3>
     <a href="#-git-flow">Git Flow</a>
     &middot;
     <a href="#-commit-규칙">Commit 규칙</a>
     &middot;
-    <a href="#-issue--pr">Issue & PR</a>
+    <a href="#-issue--pr-시스템">Issue & PR</a>
 </div>
 
 <br/>
@@ -126,3 +126,17 @@ Commit 유형에 따라, 제목에 다음과 같은 접두사를 사용합니다
 > 
 > ![image](https://github.com/user-attachments/assets/a7b8fa40-9d28-457a-af44-cb061e23c839)
 
+<br/>
+<br/>
+
+✔️ **Pull Request Template**
+추후 업데이트 예정
+
+<br/>
+<br/>
+
+<div align="center">
+    <h3 align="center">TEAM DEVELOP에서 준비한 글은 여기까지!</h3>
+    <h4>끝까지 읽어주셔서 감사합니다.</h4>
+    <h6>last updated 2025.02.23</h6>
+</div>
